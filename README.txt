@@ -19,4 +19,4 @@ In addition to these three folders, the following files are contained in the R_E
 
 - This README file.
 
-- The R_EssT_1.Rproj file that contains all of the project settings and links for use in the desktop versions of RStudio.
+- The R-Essential-Training.Rproj file that contains all of the project settings and links for use in the desktop versions of RStudio.
